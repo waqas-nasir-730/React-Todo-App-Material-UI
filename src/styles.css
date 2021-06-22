@@ -1,0 +1,20 @@
+.App {
+  font-family: roboto;
+  text-align: center;
+}
+
+.add-button {
+  margin-top: 7px !important;
+  margin-left: 10px !important;
+}
+
+.todo-completed {
+  background-color: bisque;
+  text-decoration: line-through !important;
+}
+
+.contatiner {
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
